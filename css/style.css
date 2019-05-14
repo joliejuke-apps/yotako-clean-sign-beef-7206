@@ -1,0 +1,112 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style0 {
+    background-color: #888;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    display: flex;
+    margin-left: 44px;
+    margin-top: 39px;
+    width: 288px;
+    height: 129px;
+    flex-direction: column
+  }
+  .style1 {
+    color: #fff;
+    font-family: segoeui,serif;
+    font-size: .75em;
+    margin-left: 11px;
+    margin-top: 10px;
+    height: 17px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style0 {
+    background-color: #888;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    display: flex;
+    margin-left: 90px;
+    margin-top: 80px;
+    width: 590px;
+    height: 264px;
+    flex-direction: column
+  }
+  .style1 {
+    color: #fff;
+    font-family: segoeui,serif;
+    font-size: 1.536em;
+    margin-left: 23px;
+    margin-top: 20px;
+    height: 35px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style0 {
+    background-color: #888;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    display: flex;
+    margin-left: 108px;
+    margin-top: 96px;
+    width: 707px;
+    height: 316px;
+    flex-direction: column
+  }
+  .style1 {
+    color: #fff;
+    font-family: segoeui,serif;
+    font-size: 1.8399999999999999em;
+    margin-left: 27px;
+    margin-top: 25px;
+    height: 42px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style0 {
+    background-color: #888;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    display: flex;
+    margin-left: 141px;
+    margin-top: 125px;
+    width: 922px;
+    height: 413px;
+    flex-direction: column
+  }
+  .style1 {
+    color: #fff;
+    font-family: segoeui,serif;
+    font-size: 2.4000000000000004em;
+    margin-left: 35px;
+    margin-top: 32px;
+    height: 54px
+  }
+}
